@@ -1,0 +1,400 @@
+Uri: http://golos71.ru/
+File Name: c:\Downloaded Web Sites\golos71.ru\index.htm
+Content Type: text/html
+
+Uri: http://golos71.ru/css/bootstrap/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://golos71.ru/css/fontawesome/font-awesome.css
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\font-awesome.css
+Content Type: text/css
+
+Uri: http://golos71.ru/js/owl-carousel/owl.carousel.css
+File Name: c:\Downloaded Web Sites\golos71.ru\js\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: http://golos71.ru/js/owl-carousel/owl.theme.css
+File Name: c:\Downloaded Web Sites\golos71.ru\js\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: http://golos71.ru/js/owl-carousel/owl.transitions.css
+File Name: c:\Downloaded Web Sites\golos71.ru\js\owl-carousel\owl.transitions.css
+Content Type: text/css
+
+Uri: http://golos71.ru/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\golos71.ru\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://golos71.ru/css/animate.css
+File Name: c:\Downloaded Web Sites\golos71.ru\css\animate.css
+Content Type: text/css
+
+Uri: http://golos71.ru/css/style.css
+File Name: c:\Downloaded Web Sites\golos71.ru\css\style.css
+Content Type: text/css
+
+Uri: http://golos71.ru/index.html
+File Name: c:\Downloaded Web Sites\golos71.ru\index.html
+Content Type: text/html
+
+Uri: http://golos71.ru/audio-uslugi.html
+File Name: c:\Downloaded Web Sites\golos71.ru\audio-uslugi.html
+Content Type: text/html
+
+Uri: http://golos71.ru/video-reklama.html
+File Name: c:\Downloaded Web Sites\golos71.ru\video-reklama.html
+Content Type: text/html
+
+Uri: http://golos71.ru/text.html
+File Name: c:\Downloaded Web Sites\golos71.ru\text.html
+Content Type: text/html
+
+Uri: http://golos71.ru/foto-uslugi.html
+File Name: c:\Downloaded Web Sites\golos71.ru\foto-uslugi.html
+Content Type: text/html
+
+Uri: http://golos71.ru/blog.html
+File Name: c:\Downloaded Web Sites\golos71.ru\blog.html
+Content Type: text/html
+
+Uri: http://golos71.ru/hronomer.html
+File Name: c:\Downloaded Web Sites\golos71.ru\hronomer.html
+Content Type: text/html
+
+Uri: http://golos71.ru/price-list.html
+File Name: c:\Downloaded Web Sites\golos71.ru\price-list.html
+Content Type: text/html
+
+Uri: http://golos71.ru/o-nas.html
+File Name: c:\Downloaded Web Sites\golos71.ru\o-nas.html
+Content Type: text/html
+
+Uri: http://golos71.ru/images/works/img1.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\works\img1.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/works/img2.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\works\img2.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/works/img5.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\works\img5.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/map.html
+File Name: c:\Downloaded Web Sites\golos71.ru\map.html
+Content Type: text/html
+
+Uri: http://golos71.ru/images/progress.gif
+File Name: c:\Downloaded Web Sites\golos71.ru\images\progress.gif
+Content Type: image/gif
+
+Uri: http://golos71.ru/images/logo.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\logo.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/device.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\device.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/clients-logo/clients-logo1.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\clients-logo\clients-logo1.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/clients-logo/clients-logo2.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\clients-logo\clients-logo2.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/clients-logo/clients-logo4.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\clients-logo\clients-logo4.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/clients-logo/clients-logo6.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\clients-logo\clients-logo6.png
+Content Type: image/png
+
+Uri: http://golos71.ru/js/jquery-1.11.1.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/owl-carousel/owl.carousel.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\owl-carousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.flexslider-min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.bxslider.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/easing.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\easing.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.parallax-1.1.3.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.parallax-1.1.3.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.sticky.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/jquery.mixitup.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/wow.min.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/js/custom.js
+File Name: c:\Downloaded Web Sites\golos71.ru\js\custom.js
+Content Type: application/javascript
+
+Uri: http://golos71.ru/admincalltrap.php?trap=get_js&form_id=1
+File Name: c:\Downloaded Web Sites\golos71.ru\admincalltrap.html
+Content Type: text/html
+
+Uri: http://golos71.ru/popups/content/plugins/layered-popups/js/remote.min.js?ver=6.02
+File Name: c:\Downloaded Web Sites\golos71.ru\popups\content\plugins\layered-popups\js\remote.min.js
+Content Type: application/x-javascript
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://golos71.ru/css/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\golos71.ru\css\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfonte0a5.eot?v=4.3.0
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfonte0a5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfonte0a5.woff2?v=4.3.0
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfonte0a5.woff2
+Content Type: 
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfonte0a5.woff?v=4.3.0
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfonte0a5.woff
+Content Type: application/font-woff
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfonte0a5.ttf?v=4.3.0
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfonte0a5.ttf
+Content Type: application/font-sfnt
+
+Uri: http://golos71.ru/css/fontawesome/fontawesome-webfonte0a5.svg?v=4.3.0
+File Name: c:\Downloaded Web Sites\golos71.ru\css\fontawesome\fontawesome-webfonte0a5.svg
+Content Type: image/svg+xml
+
+Uri: http://golos71.ru/js/owl-carousel/AjaxLoader.gif
+File Name: c:\Downloaded Web Sites\golos71.ru\js\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: http://golos71.ru/images/pattern.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\pattern.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/slider/slide1.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\slider\slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/slider/slide2.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\slider\slide2.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/slider/slide3.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\slider\slide3.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/parallax/cta.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\parallax\cta.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/parallax/facts.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\parallax\facts.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/parallax/pricing.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\parallax\pricing.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/parallax/contact.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\parallax\contact.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/page-header.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\page-header.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/footer-map.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\footer-map.png
+Content Type: image/png
+
+Uri: http://golos71.ru/audio/reklama_Dmitry.mp3
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\reklama_Dmitry.mp3
+Content Type: audio/mpeg
+
+Uri: http://golos71.ru/audio/reklama_Dmitry.ogg
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\reklama_Dmitry.ogg
+Content Type: audio/ogg
+
+Uri: http://golos71.ru/audio/reklama_Staleshnikov_NEW.ogg
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\reklama_Staleshnikov_NEW.ogg
+Content Type: audio/ogg
+
+Uri: http://golos71.ru/audio/reklama_Staleshnikov_NEW.mp3
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\reklama_Staleshnikov_NEW.mp3
+Content Type: audio/mpeg
+
+Uri: http://golos71.ru/audio/kniga_rasputin.ogg
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_rasputin.ogg
+Content Type: audio/ogg
+
+Uri: http://golos71.ru/audio/kniga_rasputin.mp3
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_rasputin.mp3
+Content Type: audio/mpeg
+
+Uri: http://golos71.ru/audio/kniga_Ilona.ogg
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_Ilona.ogg
+Content Type: audio/ogg
+
+Uri: http://golos71.ru/audio/kniga_Ilona.mp3
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_Ilona.mp3
+Content Type: audio/mpeg
+
+Uri: http://golos71.ru/audio/kniga_Irina.ogg
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_Irina.ogg
+Content Type: audio/ogg
+
+Uri: http://golos71.ru/audio/kniga_Irina.mp3
+File Name: c:\Downloaded Web Sites\golos71.ru\audio\kniga_Irina.mp3
+Content Type: audio/mpeg
+
+Uri: http://golos71.ru/dudl-video.html
+File Name: c:\Downloaded Web Sites\golos71.ru\dudl-video.html
+Content Type: text/html
+
+Uri: http://golos71.ru/foto-albom.html
+File Name: c:\Downloaded Web Sites\golos71.ru\foto-albom.html
+Content Type: text/html
+
+Uri: http://golos71.ru/slaid-shou.html
+File Name: c:\Downloaded Web Sites\golos71.ru\slaid-shou.html
+Content Type: text/html
+
+Uri: http://golos71.ru/images/works/img4-1.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\works\img4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/foto-galereya.html
+File Name: c:\Downloaded Web Sites\golos71.ru\foto-galereya.html
+Content Type: text/html
+
+Uri: http://golos71.ru/images/foto/foto-studiya.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\foto\foto-studiya.png
+Content Type: image/png
+
+Uri: http://golos71.ru/gde-razmestit-video-reklamu.html
+File Name: c:\Downloaded Web Sites\golos71.ru\gde-razmestit-video-reklamu.html
+Content Type: text/html
+
+Uri: http://golos71.ru/plusy-i-minusy-videoreklamy.html
+File Name: c:\Downloaded Web Sites\golos71.ru\plusy-i-minusy-videoreklamy.html
+Content Type: text/html
+
+Uri: http://golos71.ru/prodvizenie-audio-reklamy.html
+File Name: c:\Downloaded Web Sites\golos71.ru\prodvizenie-audio-reklamy.html
+Content Type: text/html
+
+Uri: http://golos71.ru/idei-dlya-video-pozdravleniya.html
+File Name: c:\Downloaded Web Sites\golos71.ru\idei-dlya-video-pozdravleniya.html
+Content Type: text/html
+
+Uri: http://golos71.ru/kak-sdelat-slaid-shou.html
+File Name: c:\Downloaded Web Sites\golos71.ru\kak-sdelat-slaid-shou.html
+Content Type: text/html
+
+Uri: http://golos71.ru/kak-napisat-reklamniy-scenariy.html
+File Name: c:\Downloaded Web Sites\golos71.ru\kak-napisat-reklamniy-scenariy.html
+Content Type: text/html
+
+Uri: http://golos71.ru/images/blog/blog1.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/blog/blog2.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/blog/blog3.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/blog/blog4.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog4.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/blog/blog5-2.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog5-2.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/blog/blog6.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\blog\blog6.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/hrono.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\hrono.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/price.jpg
+File Name: c:\Downloaded Web Sites\golos71.ru\images\price.jpg
+Content Type: image/jpeg
+
+Uri: http://golos71.ru/images/we/studio.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\we\studio.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/we/Dima.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\we\Dima.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/we/Roma.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\we\Roma.png
+Content Type: image/png
+
+Uri: http://golos71.ru/images/we/Nata.png
+File Name: c:\Downloaded Web Sites\golos71.ru\images\we\Nata.png
+Content Type: image/png
+
