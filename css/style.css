@@ -244,6 +244,7 @@ input[type="color"]:focus,
 	padding:100px 0 70px;
 	position:relative;
     background: #d41f1f#1f89d4;
+    
 }
 
 .section .container{
@@ -349,6 +350,7 @@ input[type="color"]:focus,
 	background-position: center center;
 	background-repeat: no-repeat  !important;
 	background-size: cover;
+    width: 65%; margin-left: auto; margin-right: auto;
 }
 
 
