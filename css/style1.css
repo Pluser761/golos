@@ -46,7 +46,7 @@ a:hover,  a:active,  a:focus {
 }
 
 ::selection {
-	background:#FFF;
+	background:#00A68D;
 	color:#FFF;
 }
 
@@ -575,7 +575,7 @@ html[xmlns] .slides {
 	border-bottom: 1px solid #EEE;
 }
 
-#main-menu {
+#main-menu{
 	z-index: 300; 
 	visibility:visible;
 }
@@ -2012,9 +2012,7 @@ footer ul.footer-social li:last-child a {
 
 
 @media (max-width: 992px) {
-.logo-nav img{
-	display: none;
-}
+
 .navbar-right{
 	float:none !important;
 	margin-right:0px !important;
@@ -2028,11 +2026,38 @@ footer ul.footer-social li:last-child a {
 	display: block !important;
 }
 
+#main-menu ul li { 
+	display: block;
+	text-align: left;
+	background:#00ADF1;
+	border-bottom:1px solid #9EE1FC;
+}
 
+#main-menu ul li:last-child {
+	border-bottom:none;
+}
 
+#main-menu ul li a {
+	line-height: 35px;
+	padding: 5px 10px;
+}
+
+#main-menu ul li.active > a {
+	box-shadow: none !important;
+}
+
+#main-menu ul li:hover ul {
+	border-top: solid 2px #f32b1a; 
+	top: 40px;
+}
+
+#main-menu ul li ul li a {
+	padding: 10px 30px; 
+	background: none !important;
 }
 
 
+}
 
 @media (max-width: 560px) {
 
@@ -2192,3 +2217,4 @@ footer ul li a i{
 	padding: 20px;
 }
 /* ------ Featured Work Style ------- */
+

@@ -43,92 +43,86 @@
 			<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-                            <div class="logo-nav">
-                                <a href="index.html"><img src="images\logo.png" alt="Company logo"></a>
-                            </div>
-                            <style>
-                                @media (max-width: 1000px) {
-                                    #main-menu ul li {
-                                        display: block !important;
-                                        text-align: center;
-                                        background: #FFF;
-                                    }
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fa fa-bars"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+                            <!--Start Logo -->
+							<div class="logo-nav">
+								<a href="index.html">
+									<img src="images\logo.png" alt="Company logo">
+								</a>
+							</div>
+                            <!--End Logo -->
+							
+							<nav id="main-menu" class="navbar navbar-expand-lg navbar-dark bg-dark"> 
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation"> 
+<span class="navbar-toggler-icon"></span> 
+</button> 
 
-                                    #main-menu ul li:last-child {
-                                        border-bottom: none;
-                                    }
-
-                                    #main-menu ul li a {
-                                        line-height: 35px;
-                                        padding: 5px 10px;
-                                    }
-
-                                    #main-menu ul li.active > a {
-                                        box-shadow: none !important;
-                                    }
-
-                                    #main-menu ul li:hover ul {
-                                        border-top: solid 2px #f32b1a;
-                                        top: 40px;
-                                    }
-
-                                    #main-menu ul li ul li a {
-                                        padding: 10px 30px;
-                                        background: none !important;
-                                    }
-                                }
-                            </style>
-<nav class="navbar">
-<div class="collapse scroll navbar-right navbar-collapse" id="main-menu">
-<ul class="mr-auto nav">
-<li class="nav-item active">
-<a class="nav-link" href="index.html">Главная</a>
+<div class="collapse navbar-collapse" id="navbar1"> 
+<ul class="navbar-nav mr-auto"> 
+<li class="nav-item active"> 
+<a class="nav-link" href="#">Главная</a> 
 </li> 
 <li class="nav-item"> 
-<a class="nav-link" href="audio.html">Аудио</a>
+<a class="nav-link" href="#">Аудио</a> 
 </li> 
 <li class="nav-item"> 
-<a class="nav-link" href="video.html">Видео</a>
+<a class="nav-link" href="#">Видео</a> 
 </li> 
 <li class="nav-item"> 
-<a class="nav-link" href="text.html">Копирайт</a>
+<a class="nav-link" href="#">Копирайт</a> 
 </li> 
 <li class="nav-item"> 
-<a class="nav-link" href="foto.html">Фото</a>
+<a class="nav-link" href="#">Фото</a> 
 </li> 
 	<li class="nav-item"> 
-<a class="nav-link" href="hronomer.html">Хрономер</a>
+<a class="nav-link" href="#">Хрономер</a> 
 </li> 
 	<li class="nav-item"> 
-<a class="nav-link" href="price-list.html">Цены</a>
+<a class="nav-link" href="#">Цены</a> 
 </li> 
 	<li class="nav-item"> 
-<a class="nav-link" href="o-nas.html">О нас</a>
+<a class="nav-link" href="#">О нас</a> 
 </li> 
-</ul>
-
-</div>
+</ul> 
+<form class="form-inline my-2 my-lg-0"> 
+<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"> 
+<button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button> 
+</form> 
+</div> 
 </nav>
+							<div class="clear-toggle"></div>
+							<div id="main-menu" class="collapse scroll navbar-right">
+								<ul class="nav">
+									<li class="active">
+									<a href="index.html">Главная</a> </li>
 
+									<li> <a href="audio.html">Аудио</a> </li>
+									
+									<li> <a href="video.html">Видео</a> </li>
+																		
+									<li> <a href="text.html">Копирайт</a> </li>
+									
+                                    <li> <a href="foto.html">Фото</a> </li>
+                                     
+                                    <li> <a href="hronomer.html" target="hronomer.html">Хрономер</a> </li>
+                                    
+                                    <li> <a href="price-list.html">Цены</a> </li>
+									
+									<li> <a href="o-nas.html">О нас</a></li>
 
-
-<style>
+									<style>
   .right { 
     text-align: right; 
   }
-  @media (max-width: 992px) {
-      .right {
-          text-align: center;
-      }
-  }
 </style>
-
 <div class="right">
-
 <br><font size="5"><b>8 (920) 789-85-50</b></font>
 								</div></ul>
-
-
 							</div><!-- End main-menu -->
 						</div>
 					</div>
@@ -138,7 +132,14 @@
 
 
 	   <!--Start Services-->
+   <section id="services" class="section">
+        <div class="container">
+            <div class="row">
+            
 
+            </div> <!--/.row-->
+        </div> <!--/.container-->
+   </section> 
   <!--End Services-->
 
 
